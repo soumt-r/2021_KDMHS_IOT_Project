@@ -1,0 +1,9 @@
+adafruit_ssd1306==1.6.2
+board==1.0
+colorama==0.4.4
+Flask==1.1.2
+pad4pi==1.1.5
+Pillow==8.4.0
+pyfiglet==0.8.post1
+selenium==3.141.0
+webdriver_manager==3.5.1
